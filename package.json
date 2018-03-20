@@ -1,7 +1,7 @@
 {
   "name": "omise",
-  "version": "0.5.4",
-  "description": "Omise Node.js bindings",
+  "version": "0.5.5",
+  "description": "Omise Node.js bindings UC Mod",
   "main": "index.js",
   "types": "types/index.d.ts",
   "scripts": {
